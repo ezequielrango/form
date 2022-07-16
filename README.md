@@ -1,3 +1,14 @@
+
+<h1 align="center">
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?color=FEB139&size=28&width=800&duration=3000&height=81&center=true&vCenter=true&lines=MEMO"/>
+</h1>
+
+<h1 align="center">
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?color=3AB4F2&size=28&width=500&duration=3000&height=81&center=true&vCenter=true&lines=PLAY"/>
+</h1>
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
