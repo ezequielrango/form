@@ -8,6 +8,11 @@
 </h1>
 
 
+# PREVIEW
+
+![memoDemo](https://user-images.githubusercontent.com/79542271/179344765-a72dc789-f593-460f-9d0f-e89d5fa13fa9.JPG)
+
+
 
 # Getting Started with Create React App
 
